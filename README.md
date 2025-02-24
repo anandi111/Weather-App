@@ -1,16 +1,14 @@
-# weather_app
+🌦 WeatherNow - Simple & Fast Weather App
 
-A new Flutter project.
+📌 Overview
+WeatherNow is a fast, simple, and lightweight weather application built with Flutter and GetX. It fetches real-time weather data from the OpenWeatherMap API and displays current temperature, weather conditions, humidity, and wind speed.
 
-## Getting Started
+🚀 Features
+✅ Search Any City – Get instant weather updates for any location 🌍
+✅ Real-Time Data – Fetches live weather info from OpenWeatherMap API ⏳
+✅ User-Friendly UI – Clean and simple interface 🎨
+✅ Error Handling – Handles network errors & invalid city inputs ⚠️
+✅ GetX State Management – Efficient and smooth UI updates ⚡
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Run the App & Try It!
+Enter a city (e.g., Berlin) and see the weather update instantly! 🔥
